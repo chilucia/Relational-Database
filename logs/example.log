@@ -1,0 +1,329 @@
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Nov-04-2023 13:33:06'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Nov-04-2023 13:33:16'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Nov-04-2023 13:33:47'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Nov-04-2023 13:33:53'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-04-2023 13:34:21'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-04-2023 15:55:10'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-04-2023 15:55:10'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-04-2023 15:55:53'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-04-2023 15:55:53'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 13:49:28'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 13:49:28'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 13:49:58'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 13:49:58'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 13:50:40'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 13:50:40'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 14:16:47'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 14:16:47'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 14:17:08'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 14:17:08'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:11:46'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:11:46'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:36'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:36'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:42'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:42'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:47'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:47'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:58'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:13:58'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:14:03'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 20:14:03'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:11:29'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:11:29'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:43:07'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:43:07'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:47:24'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:47:24'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:48:17'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:48:17'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:48:23'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:48:23'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:48:30'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:48:30'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:49:14'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-11-2023 21:49:14'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 07:53:41'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 07:53:41'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 07:55:45'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 07:55:45'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 07:58:34'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 07:58:34'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:04:26'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:04:26'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:06:35'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:06:35'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:07:37'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:07:37'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:07:50'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:07:50'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:10:04'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:10:04'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:10:12'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 08:10:12'
+}
+{
+  message: 'connection has been established successfully',
+  level: 'info',
+  timestamp: 'Nov-12-2023 21:17:31'
+}
+{
+  message: 'BACKEND SERVER RUNNING ON PORT 2000',
+  level: 'info',
+  timestamp: 'Nov-12-2023 21:17:31'
+}
